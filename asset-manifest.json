@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/NFTMarketPlace2022/static/css/main.44235f2a.css",
+    "main.js": "/NFTMarketPlace2022/static/js/main.a175e105.js",
+    "static/js/787.be41429e.chunk.js": "/NFTMarketPlace2022/static/js/787.be41429e.chunk.js",
+    "static/media/tile.jpeg": "/NFTMarketPlace2022/static/media/tile.d490ae250fe4f4d142b0.jpeg",
+    "static/media/dylan.png": "/NFTMarketPlace2022/static/media/dylan.0197c4df8c5c61b78bbe.png",
+    "index.html": "/NFTMarketPlace2022/index.html",
+    "main.44235f2a.css.map": "/NFTMarketPlace2022/static/css/main.44235f2a.css.map",
+    "main.a175e105.js.map": "/NFTMarketPlace2022/static/js/main.a175e105.js.map",
+    "787.be41429e.chunk.js.map": "/NFTMarketPlace2022/static/js/787.be41429e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44235f2a.css",
+    "static/js/main.a175e105.js"
+  ]
+}
